@@ -1,2 +1,2 @@
-# JFSDFront
-EduQuest
+# EduQestFrontEnd
+JAVA FULL STACK WEB DEVELOPMENT
